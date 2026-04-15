@@ -1,7 +1,8 @@
 import boto3
 import time
 #######################for checking purpose i have added this line#####
-### this is for my dev proejct ###
+### this is for my dev project ###
+### this is adding for now to check#####
 REGION = "us-east-1"
 INSTANCE_ID = "i-xxxxxxxxxxxx"
 
